@@ -1,0 +1,50 @@
+{
+  "chicken": {
+    "title": "Chicken Dish",
+    "description": "A delicious chicken recipe.",
+    "price": 5.99,
+    "quantity": 10,
+    "favoriteFoods": ["Grilled Chicken", "Fried Chicken", "Chicken Curry"],
+    "experience": [
+      { "jobTitle": "Chef", "years": 3 },
+      { "jobTitle": "Food Critic", "years": 2 }
+    ],
+    "image": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  "beef": {
+    "title": "Beef Dish",
+    "description": "A flavorful beef recipe.",
+    "price": 7.99,
+    "quantity": 5,
+    "favoriteFoods": ["Beef Steak", "Beef Burger", "Beef Stew"],
+    "experience": [
+      { "jobTitle": "Butcher", "years": 5 },
+      { "jobTitle": "Chef", "years": 4 }
+    ],
+    "image": "https://images.pexels.com/photos/776314/pexels-photo-776314.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  "tofu": {
+    "title": "Tofu Dish",
+    "description": "A healthy tofu recipe.",
+    "price": 3.99,
+    "quantity": 3,
+    "favoriteFoods": ["Tofu Stir Fry", "Tofu Salad", "Tofu Curry"],
+    "experience": [
+      { "jobTitle": "Nutritionist", "years": 2 },
+      { "jobTitle": "Chef", "years": 1 }
+    ],
+    "image": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  "drinks": {
+    "title": "Drinks",
+    "description": "A variety of drinks.",
+    "price": 1.99,
+    "quantity": 20,
+    "favoriteFoods": ["Water", "Juice", "Soda"],
+    "experience": [
+      { "jobTitle": "Bartender", "years": 3 },
+      { "jobTitle": "Barista", "years": 2 }
+    ],
+    "image": "https://images.pexels.com/photos/1484678/pexels-photo-1484678.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+}
